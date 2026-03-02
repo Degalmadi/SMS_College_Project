@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About : Student Management System
 A web application to manage student records (Add, View, Update, Delete, Search) using Spring Boot, Thymeleaf, and MySQL.
 
 
